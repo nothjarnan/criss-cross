@@ -24,7 +24,7 @@
   local cross = nil
 
 -- Debug stuff
-  local debug = true
+  local debug = false
 
 -- Animation stuff
   local winTimer = 0
