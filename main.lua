@@ -118,6 +118,7 @@ function love.keypressed(key, scancode, isrepeat)
     }
     x = 2
     y = 2
+    winner = 0
   end
   if key == "f3" then
     debug = not debug
